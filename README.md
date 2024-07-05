@@ -49,7 +49,8 @@ For this project three datasets were provided: training dataset, validation data
 
   <summary>
 
-### 3. Latent factor model with biases (Matrix Factorization with Stochastic Gradient Descent (SGD))
+### 3. Latent factor model with biases 
+(Matrix Factorization with Stochastic Gradient Descent (SGD))
   </summary>
   
   - Data Preparation:
